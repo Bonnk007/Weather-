@@ -1,5 +1,4 @@
-const url =
-  "https://weather-by-api-ninjas.p.rapidapi.com/v1/weather?city=Chennai";
+const url = "https://weather-by-api-ninjas.p.rapidapi.com/v1/weather?city=pune";
 const options = {
   method: "GET",
   headers: {
